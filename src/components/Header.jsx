@@ -5,7 +5,7 @@ import bannerImg from '../assets/banner-img.png';
 
 const Header = () => {
 	return (
-		<header>
+		<header className='mb-12'>
 			<div className='container lg:px-20 mx-auto px-6'>
 				<nav className='flex justify-between py-6  bg-white'>
 					<Logo />
