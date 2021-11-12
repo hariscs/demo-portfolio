@@ -14,20 +14,20 @@ const Skills = () => {
 				<div className='mt-10'>
 					<ul>
 						<li>
-							<h4>HTML5</h4>
-							<div>progress bar 85%</div>
+							<h4 className='font-bold  text-lg'>HTML5</h4>
+							<input type='range' value='85' className='w-full' />
 						</li>
 						<li>
-							<h4>CSS3</h4>
-							<div>progress bar 75%</div>
+							<h4 className='font-bold  text-lg'>CSS3</h4>
+							<input type='range' value='75' className='w-full' />
 						</li>
 						<li>
-							<h4>J-Query</h4>
-							<div>progress bar 90%</div>
+							<h4 className='font-bold  text-lg'>J-Query</h4>
+							<input type='range' value='90' className='w-full' />
 						</li>
 						<li>
-							<h4>Bootstrap</h4>
-							<div>progress bar 60%</div>
+							<h4 className='font-bold  text-lg'>Bootstrap</h4>
+							<input type='range' value='60' className='w-full' />
 						</li>
 					</ul>
 				</div>
