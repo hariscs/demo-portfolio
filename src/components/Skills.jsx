@@ -1,10 +1,10 @@
 const Skills = () => {
 	return (
 		<section>
-			<div className='container lg:px-20 mx-auto px-6 lg:flex lg:justify-between lg:items-center gap-14 py-8'>
+			<div className='container lg:px-20 mx-auto px-6 lg:flex lg:justify-between lg:items-center gap-14 py-8 font-headings'>
 				<div>
 					<h2 className='text-4xl font-bold mb-5'>I Got The Skills</h2>
-					<p className='text-gray-500 max-w-sm font-semibold'>
+					<p className='text-gray-500 max-w-sm  font-body'>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore
 						quasi mollitia rem quisquam atque pariatur, a ut, amet illum
 						quibusdam facere vitae delectus reiciendis fugit tempora esse sint

@@ -2,9 +2,9 @@ import Button from './Button';
 
 const Contact = () => {
 	return (
-		<section className='bg-red-500 text-white'>
+		<section className='font-body bg-secondary text-white'>
 			<div className='container lg:px-20 mx-auto px-6  py-8 flex flex-col items-center justify-center text-center'>
-				<h2 className='text-4xl font-bold mb-5'>Contact Me</h2>
+				<h2 className='text-4xl font-headings font-bold mb-5'>Contact Me</h2>
 				<p className=' max-w-sm mb-6'>
 					It is a long established fact that a reader will be distracted by the
 					readable content of a page when looking at its layout. some for as low
