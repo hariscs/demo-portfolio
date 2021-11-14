@@ -3,3 +3,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.btn {
+	@apply border rounded-full  font-bold  
+px-8 py-2 md:px-10 md:py-3 lg:px-12 lg:py-3 transition-all;
+}
+
+.btnPrimary {
+	@apply bg-secondary text-white border-secondary  hover:bg-white hover:text-secondary;
+}
+
+.btnOutline {
+	@apply bg-white text-heading  border-primary hover:text-white  hover:bg-secondary hover:border-white;
+}

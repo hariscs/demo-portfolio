@@ -29,7 +29,7 @@ const About = () => {
 					</p>
 
 					<div className='flex gap-2 align-center'>
-						<Button>Hire Me</Button>
+						<Button buttonStyle='btnOutline'>Hire Me</Button>
 						<Button>Resume</Button>
 					</div>
 				</div>

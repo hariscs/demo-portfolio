@@ -16,7 +16,7 @@ const Contact = () => {
 					<span>information@example.com</span>
 					<span>KarimEzZat.me</span>
 				</div>
-				<Button>Hire Me</Button>
+				<Button buttonStyle='btnOutline'>Hire Me</Button>
 			</div>
 		</section>
 	);
